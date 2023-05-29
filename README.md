@@ -8,7 +8,7 @@ Fedora Linux configuration from scratch
 	```
 2. Most apps can also be installed from a graphical interface, using the **Software** app.
 
-3. This guide is a work in progress. Please reffer to [the Fedora docs](https://docs.fedoraproject.org/en-US/docs/) for anything that's not included here.
+3. This guide is a work in progress. Please refer to [the Fedora docs](https://docs.fedoraproject.org/en-US/docs/) for anything that's not included here.
 
 ## Basic Stuff
 ### Enabling 3rd party repositories
