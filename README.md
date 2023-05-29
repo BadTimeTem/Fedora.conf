@@ -11,7 +11,7 @@ Fedora Linux configuration from scratch
 3. This guide is a work in progress. Please reffer to [the Fedora docs](https://docs.fedoraproject.org/en-US/docs/) for anything that's not included here.
 
 ## Basic Stuff
-### Enableing 3rd party repositories
+### Enabling 3rd party repositories
 Enable the Free repository:
 ```
 sudo dnf install \
